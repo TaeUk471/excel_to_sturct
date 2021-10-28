@@ -1,0 +1,48 @@
+{
+    "id" : [],
+	"supplier": [
+
+	],
+	"businessNumber": [
+
+	],
+	"emailAdderss": [
+
+	],
+	"headOffice": [
+
+	],
+	"collectionEngineer": [
+
+	],
+	"dischargeCompany": [
+
+	],
+	"duedate": [
+
+	],
+	"kind": [
+
+	],
+	"unitPrice": [
+
+	],
+	"registrationNumber": [
+
+	],
+	"billAddress": [
+
+	],
+	"workplaceAddress": [
+
+	],
+	"supervisor": [
+
+	],
+	"supervisorEmail": [
+
+	],
+	"phoneNumber": [
+
+	]
+}
